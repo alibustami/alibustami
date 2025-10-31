@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Ali Bustami, a mechatronics engineer and data scientist. I'm passionate about building software, solving problems, machine learning & robotics. I'm currently working as an Untructured Data Scientist at [Beyond Limits](https://www.beyond.ai).
+I'm Ali Bustami, a mechatronics engineer and data scientist. I'm passionate about building software, solving problems, machine learning & robotics.
 
 ### Problem Solving Platforms :computer: 
 
