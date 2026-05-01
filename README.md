@@ -12,10 +12,10 @@ I'm Ali Bustami, a mechatronics engineer and data scientist. I'm passionate abou
 
 
 ### How to reach me 📫
--->
+
 linkedin: [alibustami](https://www.linkedin.com/in/alibustami/)
 
-<!--
+
 **alibustami/alibustami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
