@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 I'm Ali Bustami, a mechatronics engineer and data scientist. I'm passionate about building software, solving problems, machine learning & robotics.
 
 ### Problem Solving Platforms :computer: 
